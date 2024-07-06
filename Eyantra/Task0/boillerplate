@@ -1,0 +1,38 @@
+
+'''
+# Team ID:            3895
+# Theme:              GeoGuide 
+# Author List:        Ashwin Agrawal, Soham Rajesh Pawar, Aditya Waghmare, Siddhant Godbole
+# Filename:           IFs_and_FORs_with_Python.py
+# Functions:          main()
+# Global variables:   
+'''
+
+
+
+def main():
+    '''
+    Purpose:
+    ---
+    Asks the user to input the number of elements required from the Fibonacci Series
+    and call the function print_fibonacci_series.
+    
+    Input Arguments:
+    ---
+    None
+    
+    Returns:
+    ---
+    None
+    
+    Example call:
+    ---
+    Called automatically by the Operating System
+    '''
+    
+# Function Name:    main (built in)
+#        Inputs:    None
+#       Outputs:    None
+#       Purpose:    To call the main() function to print the Fibonacci series.
+if __name__ == "__main__":
+    main()
