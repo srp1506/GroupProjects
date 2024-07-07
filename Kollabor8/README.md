@@ -1,5 +1,5 @@
 # WebDev
-My Project For My Web Dev Assignment In IITH for Softwarre Development Fundamentals.
+Project files For The Web Dev Assignment In IITH for Softwarre Development Fundamentals.
 In Order For This Code To Work You Should Have Apache XAMPP Server Installed In Your PC.
 
 Team Members:
