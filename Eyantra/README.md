@@ -1,4 +1,4 @@
-Project files for the competition EYRC 2023-24.
+Project Files For The Competition EYRC 2023-24.
 Team Members-
 Ashwin Aggrwal (Team Leader),
 Soham Rajesh Pawar,
